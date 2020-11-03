@@ -8,5 +8,8 @@ There are two ways to define and instantiate a Drawable besides using the class 
 Inflate an image resource (a bitmap file) saved in your project.
 Inflate an XML resource that defines the drawable properties.
 
-https://github.com/HariAgus/drawing-canvas/issues/1#issue-735062170
+![Screenshot (313)](https://user-images.githubusercontent.com/57583223/97955970-122dce80-1dda-11eb-8304-aef48a0a06ee.png)
+
+
+
 
